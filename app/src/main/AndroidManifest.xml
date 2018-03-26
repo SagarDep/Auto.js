@@ -12,9 +12,6 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
 
-    <!-- Ad SDK Permissions -->
-    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
-
     <application
         xmlns:tools="http://schemas.android.com/tools"
         android:name=".App"
